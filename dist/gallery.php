@@ -7,35 +7,7 @@
 
 </head>
 <body>
-<header>
-    <div class="container">
-        <div class="row">
-            <div class="panel panel-primary">
-
-                <div class="panel-heading">
-                    <center><i>Tangina Tushar</i></center>
-                </div>
-            </div>
-        </div>
-
-    </div>
-
-    <div class="row">
-        <div class="col-md-3"></div>
-        <div class="col-md-3"><img src="flower.jpg" height="50px" width="150px"></div>
-        <div class="col-md-3"><i>My Personal Website........</i>
-
-            <br>
-            &nbsp; &nbsp;  &nbsp;  &nbsp; <b>Always Dedicated to Service............</b>
-        </div>
-        <div class="col-md-3"></div>
-
-    </div>
-
-
-    <hr>
-</header>
-
+<?php include_once('header.php') ?>
 
 <div class="container">
 
@@ -106,35 +78,6 @@
 
 
 
-<footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6">
-                <div class="panel panel-primary" >
-
-                    <div class="panel-heading">
-                        <center><i>CopyRight &copy; Tangina Tushar</i></center>
-                    </div>
-
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="panel panel-primary" >
-
-                    <div class="panel-heading">
-                        <center><i>Services|| Information</i></center>
-                    </div>
-
-                </div>
-            </div>
-
-        </div>
-
-    </div>
-</footer>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-
+<?php include_once('footer.php') ?>
 </body>
 </html>
