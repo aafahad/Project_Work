@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="183d47a8-b864-4822-b812-dce0588aae39" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/classtest/about.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/classtest/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/classtest/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/classtest/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/classtest/home.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/classtest/home_test.php" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/about_me.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/carouFredSel_6.2.1.js" afterPath="" />
@@ -67,14 +74,97 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/practise.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/registration.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/DSC009351.jpg" afterPath="$PROJECT_DIR$/dist/images/DSC009351.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/DSC00965.JPG" afterPath="$PROJECT_DIR$/dist/images/DSC00965.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/Picture 429.jpg" afterPath="$PROJECT_DIR$/dist/images/Picture 429.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/Picture 439.jpg" afterPath="$PROJECT_DIR$/dist/images/Picture 439.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/Picture 440.jpg" afterPath="$PROJECT_DIR$/dist/images/Picture 440.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/Picture 442.jpg" afterPath="$PROJECT_DIR$/dist/images/Picture 442.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/c2.jpg" afterPath="$PROJECT_DIR$/dist/images/c2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/project/c2.jpg" afterPath="$PROJECT_DIR$/dist/project/c2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/flower.jpg" afterPath="$PROJECT_DIR$/dist/flower.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/dist/images/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/project/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/dist/project/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/dist/images/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/project/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/dist/project/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/dist/images/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/project/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/dist/project/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/norway.jpg" afterPath="$PROJECT_DIR$/dist/norway.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/snow.jpg" afterPath="$PROJECT_DIR$/dist/snow.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/t1.Jpg" afterPath="$PROJECT_DIR$/dist/images/t1.Jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/project/t1.Jpg" afterPath="$PROJECT_DIR$/dist/project/t1.Jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/.idea/.name" afterPath="$PROJECT_DIR$/dist/.idea/.name" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Bootstrap_practise.iml" afterPath="$PROJECT_DIR$/.idea/Bootstrap_practise.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Project_Work.iml" afterPath="$PROJECT_DIR$/.idea/Project_Work.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/a.php" afterPath="$PROJECT_DIR$/dist/a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/about_me.php" afterPath="$PROJECT_DIR$/dist/about_me.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/dist/css/bootstrap-theme.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/dist/images/css/bootstrap-theme.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/project/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/dist/project/css/bootstrap-theme.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/dist/css/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/dist/images/css/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/project/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/dist/project/css/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/dist/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/dist/images/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/project/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/dist/project/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/dist/css/bootstrap.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/dist/images/css/bootstrap.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/project/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/dist/project/css/bootstrap.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/dist/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/css/bootstrap.css" afterPath="$PROJECT_DIR$/dist/images/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/project/css/bootstrap.css" afterPath="$PROJECT_DIR$/dist/project/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/js/bootstrap.js" afterPath="$PROJECT_DIR$/dist/images/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/dist/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/project/js/bootstrap.js" afterPath="$PROJECT_DIR$/dist/project/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/dist/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/dist/images/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/project/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/dist/project/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/dist/images/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/dist/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/project/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/dist/project/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/contact_me.php" afterPath="$PROJECT_DIR$/dist/contact_me.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/dashboard.php" afterPath="$PROJECT_DIR$/dist/dashboard.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/.idea/dist.iml" afterPath="$PROJECT_DIR$/dist/.idea/dist.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/.idea/encodings.xml" afterPath="$PROJECT_DIR$/dist/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/feedback.php" afterPath="$PROJECT_DIR$/dist/feedback.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/footer.php" afterPath="$PROJECT_DIR$/dist/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/g.php" afterPath="$PROJECT_DIR$/dist/g.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/gallery.php" afterPath="$PROJECT_DIR$/dist/gallery.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/dist/images/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/project/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/dist/project/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/header.php" afterPath="$PROJECT_DIR$/dist/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/home.php" afterPath="$PROJECT_DIR$/dist/home.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/log_in.php" afterPath="$PROJECT_DIR$/dist/log_in.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/.idea/misc.xml" afterPath="$PROJECT_DIR$/dist/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/.idea/modules.xml" afterPath="$PROJECT_DIR$/dist/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/images/js/npm.js" afterPath="$PROJECT_DIR$/dist/images/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/js/npm.js" afterPath="$PROJECT_DIR$/dist/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/project/js/npm.js" afterPath="$PROJECT_DIR$/dist/project/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/photogallery.php" afterPath="$PROJECT_DIR$/dist/photogallery.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/portfolio.php" afterPath="$PROJECT_DIR$/dist/portfolio.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/pro.php" afterPath="$PROJECT_DIR$/dist/pro.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/registration.php" afterPath="$PROJECT_DIR$/dist/registration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/dist/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/template.html" afterPath="$PROJECT_DIR$/dist/template.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/.idea/vcs.xml" afterPath="$PROJECT_DIR$/dist/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/videos.php" afterPath="$PROJECT_DIR$/dist/videos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/.idea/workspace.xml" afterPath="$PROJECT_DIR$/dist/.idea/workspace.xml" />
     </list>
     <ignored path="Project_Work.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,8 +183,76 @@
   <component name="FavoritesManager">
     <favorites_list name="Project_Work" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/classtest/about.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.0" vertical-offset="45" max-vertical-offset="1005">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/classtest/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.25" vertical-offset="135" max-vertical-offset="1665">
+              <caret line="19" column="29" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/classtest/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="52.333332" vertical-offset="1796" max-vertical-offset="2640">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/classtest/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.85561496" vertical-offset="0" max-vertical-offset="585">
+              <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/dist/portfolio.php" />
+        <option value="$PROJECT_DIR$/dist/log_in.php" />
+        <option value="$PROJECT_DIR$/dist/add.php" />
+        <option value="$PROJECT_DIR$/dist/gallery.php" />
+        <option value="$PROJECT_DIR$/dist/photogallery.php" />
+        <option value="$PROJECT_DIR$/dist/registration.php" />
+        <option value="$PROJECT_DIR$/dist/home.php" />
+        <option value="$PROJECT_DIR$/dist/classtest/footer.php" />
+        <option value="$PROJECT_DIR$/dist/classtest/home_test.php" />
+        <option value="$PROJECT_DIR$/dist/classtest/home.php" />
+        <option value="$PROJECT_DIR$/dist/classtest/contact.php" />
+        <option value="$PROJECT_DIR$/dist/classtest/about.php" />
+        <option value="$PROJECT_DIR$/dist/classtest/header.php" />
+      </list>
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -116,14 +274,105 @@
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project_Work" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project_Work" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tangina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project_Work" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tangina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project_Work" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tangina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classtest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../php_class_function" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="183d47a8-b864-4822-b812-dce0588aae39" name="Default" comment="" />
@@ -135,25 +384,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1215" height="1028" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24938272" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32939914" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -177,6 +426,130 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dist/log_in.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3989547" vertical-offset="1106" max-vertical-offset="2130">
+          <caret line="89" column="28" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.828877" vertical-offset="309" max-vertical-offset="2175">
+          <caret line="89" column="53" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/photogallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10452962" vertical-offset="1395" max-vertical-offset="2610">
+          <caret line="97" column="50" selection-start-line="97" selection-start-column="50" selection-end-line="97" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81010455" vertical-offset="0" max-vertical-offset="574">
+          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+          <folding>
+            <marker date="1421641338502" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32085562" vertical-offset="0" max-vertical-offset="3165">
+          <caret line="12" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="205" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/contact_me.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10452962" vertical-offset="1215" max-vertical-offset="2925">
+          <caret line="85" column="14" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/about_me.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1229947" vertical-offset="630" max-vertical-offset="3120">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6524064" vertical-offset="1224" max-vertical-offset="2310">
+          <caret line="106" column="23" selection-start-line="77" selection-start-column="12" selection-end-line="110" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.6132405" vertical-offset="540" max-vertical-offset="2805">
+          <caret line="136" column="74" selection-start-line="136" selection-start-column="16" selection-end-line="136" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/classtest/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="285">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/classtest/home_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6271777" vertical-offset="0" max-vertical-offset="2550">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/classtest/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25" vertical-offset="135" max-vertical-offset="1665">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/classtest/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0" vertical-offset="45" max-vertical-offset="1005">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/classtest/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="52.333332" vertical-offset="1796" max-vertical-offset="2640">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/classtest/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.85561496" vertical-offset="0" max-vertical-offset="585">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
 

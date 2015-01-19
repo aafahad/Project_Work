@@ -73,9 +73,9 @@
         <div class="col-md-8">
 
 
-            <form role="form"action="log_in.php">
+            <form role="form" action="add.php">
                 <div class="form-group">
-                    <label for="name">Full Name</label>
+                    <label for="fullName">Full Name</label>
                     <input type="text" class="form-control" id="text" name="fullName" placeholder=" ">
                 </div>
 
@@ -138,11 +138,11 @@
             </form>
 
 
+        </div>
+        <div class="col-md-2">
 
 
 
-
-            </div>
 
         </div>
 

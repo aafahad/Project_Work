@@ -55,7 +55,7 @@
                 <li role="presentation"><a href="contact_me.php">Contact Me</a></li>
                 <li role="presentation"><a href="registration.php">Registration</a></li>
                 <li role="presentation"><a href="feedback.php">FeedBack</a></li>
-                <li role="presentation"><a href="feedback.php">Feedback</a></li>
+
             </ul>
         </div>
 

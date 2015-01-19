@@ -94,20 +94,20 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                    <img src="flower.jpg" alt="..." height="5px" width="100%">
+                    <img src="images/Picture%20440.jpg" alt="..." height="5px" width="100%">
                     <div class="carousel-caption">
                         Tushar
                     </div>
                 </div>
                 <div class="item">
-                    <img src="flower.jpg" alt="..." height="5px" width="100%">
+                    <img src="images/DSC00965.JPG" alt="..." height="5px" width="100%">
                     <div class="carousel-caption">
                         Flower
                     </div>
                 </div>
 
                 <div class="item">
-                    <img src="flower.jpg" alt="..." height="5px" width="100%">
+                    <img src="images/Picture%20439.jpg" alt="..." height="5px" width="100%">
                     <div class="carousel-caption">
                         Tangina
                     </div>

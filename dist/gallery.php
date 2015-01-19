@@ -87,7 +87,7 @@
         <div class="row">
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <img data-src="flower.jpg" alt="No view">
+                    <img data-src="images/DSC00965.JPG" alt="No view">
                     <div class="caption">
                         <h3>A Flower</h3>
                         <p>A Lovely Flower</p>
